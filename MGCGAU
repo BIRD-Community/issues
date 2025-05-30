@@ -1,0 +1,5 @@
+# MG Customization GUI Auto-Update
+The MG Customization GUI currently does not automatically update with the mod, making it very tedious to update in BCB. 
+Unfortunatley, to update BCB, we need to manually go in and re-make the changes, save to the package, and THEN publish EVERY place that is currently in use.
+
+A solution to this is that we instead require the model, which will cancel out all of this. We can modify the original model if needed.
